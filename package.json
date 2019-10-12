@@ -17,11 +17,13 @@
     "core-js": "^3.2.1",
     "eslint-plugin-react-hooks": "^2.1.2",
     "jest": "^24.9.0",
+    "obtain-unicode": "^0.0.5",
     "parcel": "^1.12.3",
     "prettier": "^1.18.2",
     "react": "^16.10.1",
     "react-dom": "^16.10.1",
     "react-test-renderer": "^16.10.1",
+    "string-width": "^4.1.0",
     "styled-components": "^4.4.0",
     "typescript": "^3.6.3"
   },
